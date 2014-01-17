@@ -3,6 +3,12 @@ package com.java.basics;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Sample class to detect Hash collision in hashmap
+ * 
+ * @author Alpesh
+ * 
+ */
 public class HashCollision {
 
 	public static void main(String[] args) {
